@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\VSCODE_PROJECT\\2dgame",
+            "binaryPath": "c:\\VSCODE_PROJECT\\2dgame\\main",
+            "binaryArgs": []
+        }
+    ]
+}
